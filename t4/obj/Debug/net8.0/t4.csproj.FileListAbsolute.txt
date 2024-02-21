@@ -1,0 +1,15 @@
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.AssemblyInfoInputs.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.AssemblyInfo.cs
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.csproj.CoreCompileInputs.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.sourcelink.json
+/Users/sosnoooley/Desktop/c# education/Homework/t4/bin/Debug/net8.0/t4
+/Users/sosnoooley/Desktop/c# education/Homework/t4/bin/Debug/net8.0/t4.deps.json
+/Users/sosnoooley/Desktop/c# education/Homework/t4/bin/Debug/net8.0/t4.runtimeconfig.json
+/Users/sosnoooley/Desktop/c# education/Homework/t4/bin/Debug/net8.0/t4.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t4/bin/Debug/net8.0/t4.pdb
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/refint/t4.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.pdb
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/t4.genruntimeconfig.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t4/obj/Debug/net8.0/ref/t4.dll
