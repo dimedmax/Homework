@@ -1,0 +1,15 @@
+/Users/sosnoooley/Desktop/c# education/Homework/t2/bin/Debug/net8.0/t2
+/Users/sosnoooley/Desktop/c# education/Homework/t2/bin/Debug/net8.0/t2.deps.json
+/Users/sosnoooley/Desktop/c# education/Homework/t2/bin/Debug/net8.0/t2.runtimeconfig.json
+/Users/sosnoooley/Desktop/c# education/Homework/t2/bin/Debug/net8.0/t2.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t2/bin/Debug/net8.0/t2.pdb
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.AssemblyInfoInputs.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.AssemblyInfo.cs
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.csproj.CoreCompileInputs.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.sourcelink.json
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/refint/t2.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.pdb
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/t2.genruntimeconfig.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t2/obj/Debug/net8.0/ref/t2.dll
