@@ -1,0 +1,15 @@
+/Users/sosnoooley/Desktop/c# education/Homework/t3/bin/Debug/net8.0/t3
+/Users/sosnoooley/Desktop/c# education/Homework/t3/bin/Debug/net8.0/t3.deps.json
+/Users/sosnoooley/Desktop/c# education/Homework/t3/bin/Debug/net8.0/t3.runtimeconfig.json
+/Users/sosnoooley/Desktop/c# education/Homework/t3/bin/Debug/net8.0/t3.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t3/bin/Debug/net8.0/t3.pdb
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.AssemblyInfoInputs.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.AssemblyInfo.cs
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.csproj.CoreCompileInputs.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.sourcelink.json
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/refint/t3.dll
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.pdb
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/t3.genruntimeconfig.cache
+/Users/sosnoooley/Desktop/c# education/Homework/t3/obj/Debug/net8.0/ref/t3.dll
